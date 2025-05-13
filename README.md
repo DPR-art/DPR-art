@@ -1,4 +1,8 @@
-![banner](./img/github-header-image.png)
+ <div align="center">
+
+ ![banner](./img/Screenshot%202025-05-13%20230849.png)
+
+ </div>
 <h2 align="left">Hello there 👋, I'm Dani</h2>
 
 ###
